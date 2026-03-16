@@ -1,0 +1,1 @@
+# [Mathematical Foundations for Computing](https://www.coursera.org/learn/mathematical-foundations-for-computing?specialization=essential-mathematics-for-computer-science-odc)
